@@ -1,0 +1,16 @@
+---
+title: "Testing Functions"
+author: "Group2"
+format: html
+editor: visual
+---
+
+```{r}
+library(lab2group2package)
+```
+
+```{r}
+#testing Fuction1
+hello
+```
+
